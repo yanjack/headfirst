@@ -1,0 +1,6 @@
+观察者模式 --定义了对象之间的一（主题/subject）对多（观察者/observer）依赖，observer在subject处注册成为观察者，
+		当subject数据有变化时，会通知所以有注册的observer。
+		
+		jdk内置observerable
+设计原则
+	一:对象之间交互的松耦合。
